@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 This is me： 
-**gabbylinna/gabbylinna** 
+**gabbylinna** 
 ✨ 林娜✨ 
 
 ALL YOU NEED IS ** :drum: ** 
