@@ -1,4 +1,5 @@
 ### Hi there 👋
+![dino](https://github.com/gabbylinna/gabbylinna/assets/103860123/743deb7a-5427-498b-bb27-ff0cab5ec2d8)
 
 This is me： 
 **gabbylinna** 
