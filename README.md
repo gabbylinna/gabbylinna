@@ -1,12 +1,18 @@
-### Hi there 👋
-![dino](https://github.com/gabbylinna/gabbylinna/assets/103860123/743deb7a-5427-498b-bb27-ff0cab5ec2d8)
-
-This is me： 
-**gabbylinna** 
-✨ 林娜✨ 
-
-ALL YOU NEED IS ** :drum: ** 
+### Hi there 👋 I'm Gabriela Manca  ✨ 林娜✨  
+![AI-Technology-Creation-Concept](https://github.com/gabbylinna/gabbylinna/assets/103860123/285b186a-5b80-499c-824b-1f9d533cb01e)
+## Studies
+- Bachelor in Linguistics
+- Master's Degree in Higher Education
+- Associete Degree in Computer Programming (graduating in December 2023)
  
-- ❤️‍🔥 Passionate about: no words to describe it
-- 📚 Languages: Spanish, English, Chinese, Italian and... What's next?
-- 💡 Quotes: If you've got a problem, take it out on a drum. Neil Peart
+## More about me 
+- 🔭 I’m working as a translator and interpreter
+- 📚 Languages: Spanish, English, Chinese, Italian and ... What's next?
+- 🌱 I’m currently learning Fullstack
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2024 Goals: Contribute to challenging projects
+- ⚡ Fun fact: I love to play drums
+- ❤️‍🔥 Passionate about: travelling and listening to music
+- 💡 Quotes: CARPE DIEM 
+
+## Languages and tools 
