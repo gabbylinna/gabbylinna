@@ -3,7 +3,7 @@
 ## Studies
 - Bachelor in Linguistics
 - Master's Degree in Higher Education
-- Associete Degree in Computer Programming (graduating in December 2023)
+- Associate Degree in Computer Programming (graduating in December 2023)
  
 ## More about me 
 - 🔭 I’m working as a translator and interpreter
