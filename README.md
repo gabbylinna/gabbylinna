@@ -1,5 +1,4 @@
-### Hi there 👋 I'm Gabriela Manca  ✨ 林娜✨  
-![AI-Technology-Creation-Concept](https://github.com/gabbylinna/gabbylinna/assets/103860123/285b186a-5b80-499c-824b-1f9d533cb01e)
+# Hi there 👋 I'm Gabriela Manca  ✨ 林娜✨  
 ## Studies
 - Bachelor in Linguistics
 - Master's Degree in Higher Education
@@ -29,3 +28,8 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" height="50" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" height="50" style="vertical-align:top; margin:4px">
 </p>
+
+## Reality in a wave
+
+![2a132afeebedf4f7591b14872379f187](https://github.com/gabbylinna/gabbylinna/assets/103860123/57484664-6632-47c3-8db3-b11dc8b98b54)
+
