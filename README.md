@@ -8,7 +8,7 @@
 - 🔭 I’m working as a translator and interpreter
 - 📚 Languages: Spanish, English, Chinese, Italian and ... What's next?
 - 🌱 I’m currently learning Fullstack
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking forward to collaborating with other programmers
 - 🥅 2024 Goals: Contribute to challenging projects
 - ⚡ Fun fact: I love to play drums
 - ❤️‍🔥 Passionate about: travelling and listening to music
