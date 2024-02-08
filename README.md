@@ -35,7 +35,7 @@ Nanjing Normal University :  [Visit](https://www.njnu.edu.cn/)
 
 Universidad CEU Cardenal Herrera :  [Visit](https://www.uchceu.es/)
  
-- 👩‍🎓 Associate Degree in Computer Programming (graduating in December 2023)
+- 👩‍🎓 Associate Degree in Computer Programming
 <img src="https://github.com/gabbylinna/gabbylinna/assets/103860123/1f7fface-d8ff-4192-9ceb-5edec046c17d" alt="java" width="60" height="60"/>
 
 UTN San Rafael :  [Visit](https://www.frsr.utn.edu.ar/)
